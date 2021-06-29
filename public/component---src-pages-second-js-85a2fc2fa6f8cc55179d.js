@@ -1,0 +1,2 @@
+(self.webpackChunkmy_project=self.webpackChunkmy_project||[]).push([[214],{4665:function(e,t,l){"use strict";l.r(t);var n=l(7294),c=l(5444),r=l(967),u=l(187);t.default=function(){return n.createElement(r.Z,null,n.createElement(u.Z,{title:"2つ目のページ",desc:"2ページ目です"}),n.createElement("div",null,n.createElement("p",null,"２つ目のページのメインコンテンツ！"),n.createElement(c.rU,{to:"/"},"トップページへのリンク")))}}}]);
+//# sourceMappingURL=component---src-pages-second-js-85a2fc2fa6f8cc55179d.js.map
